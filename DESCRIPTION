@@ -1,0 +1,10 @@
+Package: PresDebates
+Title: United States Presidential Debate Transcripts
+Version: 0.0.0.1000
+Authors@R: person("Josiah", "McMillan", email = "",
+                  role = c("aut", "cre"))
+Description: Includes tidy versions of primary, vice presidential, and presidential debates from 2000-2020, presidential and vice presidential since 1960. 
+Depends: R (>= 3.5.0)
+License: MIT
+LazyData: true
+Encoding: UTF-8
