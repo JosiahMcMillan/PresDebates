@@ -15,9 +15,9 @@
 #' }
 #'
 #' @docType data
-#' @usage data(pres_debates)
+#' @usage data(PresDebates)
 #' @keywords datasets
-#' @name pres_debates
+#' @name PresDebates
 #' @format A tibble.
 #' @source The American Presidency Project \href{Debate Archive}{https://www.presidency.ucsb.edu/documents/presidential-documents-archive-guidebook/presidential-campaigns-debates-and-endorsements-0}
-'pres_debates'
+'PresDebates'
