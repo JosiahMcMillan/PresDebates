@@ -25,5 +25,5 @@ data(pres_debates)
 ```
 
 ## Acknowledgments
-
+- The formatting of this repository and the files within came from [James Martherus](https://github.com/jamesmartherus/debates)
 - Transcripts were scraped from The American Presidency Project [Debate Archive](https://www.presidency.ucsb.edu/documents/presidential-documents-archive-guidebook/presidential-campaigns-debates-and-endorsements-0)
