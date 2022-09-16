@@ -11,7 +11,7 @@ To install `PresDebates`, use the `install_github` function from the `devtools` 
 
 ```
 library(devtools)
-install_github("JosiahMcMillan/PresDebates")
+install_github("JosiahMcMillan/presdebates")
 ```
 
 Alternatively, you can download transcripts.rda directly from the `data` folder. 
@@ -21,7 +21,7 @@ Alternatively, you can download transcripts.rda directly from the `data` folder.
 ```
 library(PresDebates)
 
-data(PresDebates) 
+data(pres_debates) 
 ```
 
 ## Acknowledgments
