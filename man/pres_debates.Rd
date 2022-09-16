@@ -1,7 +1,6 @@
-% Please edit documentation in R/data.R
 \docType{data}
-\name{PresDebates}
-\alias{PresDebates}
+\name{pres_debates}
+\alias{pres_debates}
 \title{United States Presidential Debate Transcripts Data File}
 \format{An object of class \code{tibble} with 40,038 rows and 6 columns.
 \describe{
@@ -16,7 +15,7 @@
 The American Presidency Project \href{Debate Archive}{https://www.presidency.ucsb.edu/documents/presidential-documents-archive-guidebook/presidential-campaigns-debates-and-endorsements-0}
 }
 \usage{
-data(PresDebates)
+data(pres_debates)
 }
 \description{
 A tibble containing transcripts for presidential debates hosted on The American Presidency Project.
