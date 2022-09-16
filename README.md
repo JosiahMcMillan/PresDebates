@@ -16,7 +16,7 @@ library(devtools)
 install_github("JosiahMcMillan/presdebates")
 ```
 
-Alternatively, you can download transcripts.rda directly from the `data` folder. 
+Alternatively, you can download pres_debates.rda or pres_debates.csv directly from the `data` folder. 
 
 ## Example
 
