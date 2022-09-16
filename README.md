@@ -5,6 +5,8 @@ This repository contains transcripts of presidential debates going back until 19
 
 While I can make no guarantee that the transcripts are of good quality, please let me know if there are any issues with the data that may have.
 
+Data is also available as a .csv file in the 'data' folder
+
 ## Installation
 
 To install `PresDebates`, use the `install_github` function from the `devtools` package:
