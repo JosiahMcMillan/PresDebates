@@ -15,16 +15,16 @@ To install `PresDebates`, use the `install_github` function from the `devtools` 
 library(devtools)
 install_github("JosiahMcMillan/presdebates")
 ```
-
-Alternatively, you can download pres_debates.rda or pres_debates.csv directly from the `data` folder. 
-
-## Example
-
+Then data can be accessed with the following commands:
 ```
 library(PresDebates)
 
 data(pres_debates) 
 ```
+Alternatively, you can download pres_debates.rda or pres_debates.csv directly from the `data` folder. 
+
+## Examples
+Use cases can be found in the Examples folder, currently term frequency is shown but other text minig methods such as topic modeling can be done as well.
 
 ## Acknowledgments
 - The formatting of this repository and the files within came from [James Martherus](https://github.com/jamesmartherus/debates)
